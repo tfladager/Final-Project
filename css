@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/
+css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+
+body {
+     font-family: "Open Sans", sans-serif;
+}
+
+
+.navigation {
+  background-color: cadetblue;  
+  width: 300px;
+  height: 100%;
+
+  position: fixed;
+  top: 0;
+  right: 0;
+}
+
+
+.main {
+background-color: wheat;
+
+margin-right: 300px;
+padding; 1em;
+}
