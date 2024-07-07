@@ -20,7 +20,12 @@ body {
 
 .main {
 background-color: wheat;
-
+overflow:auto;
 margin-right: 300px;
 padding; 1em;
+}
+
+.banner {
+    width: 100%;
+    height: auto
 }
